@@ -5,3 +5,5 @@ managed_components/
 dependencies.lock
 sdkconfig.esp32
 src/CMakeLists.txt
+.DS_Store
+CMakeLists.txt
